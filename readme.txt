@@ -17,6 +17,9 @@ on that website.
 3.
 Login, click on download and find the EDSDK21000CD.dmg and downlaod it
 
+4.
+put EDSDK folder to foxCanon
+
 
 ================================================================================
 See the openFrameworks_ofxCanon.pdf file for a step by step installation guide
