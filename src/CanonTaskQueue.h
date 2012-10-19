@@ -1,10 +1,10 @@
 #ifndef ROXLU_CANON_TASKQUEUEH
 #define ROXLU_CANON_TASKQUEUEH
 
-#include <Poco/Thread.h>
-#include <Poco/Runnable.h>
-#include <Poco/Mutex.h>
-#include <Poco/ScopedLock.h>
+#include "Poco/Thread.h"
+#include "Poco/Runnable.h"
+#include "Poco/Mutex.h"
+#include "Poco/ScopedLock.h"
 #include <deque>
 #include "CanonTask.h"
 

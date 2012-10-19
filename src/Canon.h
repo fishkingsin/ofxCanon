@@ -1,8 +1,8 @@
 #ifndef ROXLU_CANONH
 #define ROXLU_CANONH
 
-#include <Poco/Thread.h>
-#include <Poco/Runnable.h>
+#include "Poco/Thread.h"
+#include "Poco/Runnable.h"
 
 #include "CanonTaskQueue.h"
 #include "CanonTaskInit.h"

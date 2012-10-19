@@ -1,8 +1,8 @@
 #ifndef ROXLU_CANONCONNECTIONH
 #define ROXLU_CANONCONNECTIONH
 
-#include <Poco/Thread.h>
-#include <Poco/Runnable.h>
+#include "Poco/Thread.h"
+#include "Poco/Runnable.h"
 
 namespace roxlu {
 

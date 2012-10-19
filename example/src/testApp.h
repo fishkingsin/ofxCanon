@@ -1,8 +1,8 @@
 #pragma once
 
 #include "ofMain.h"
-#include "Canon.h"
 
+#include "Canon.h"
 class testApp : public ofBaseApp{
 
 	public:
